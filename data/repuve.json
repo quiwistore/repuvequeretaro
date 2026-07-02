@@ -57,8 +57,8 @@
         "sabado": "Cerrado",
         "domingo": "Cerrado"
       },
-      "latitude": 20.5888,
-      "longitude": -100.3899,
+      "latitude": 20.503027784832103,
+      "longitude": -102.52197594240836,
       "servicios": [
         "Consulta ciudadana REPUVE",
         "Inscripción de vehículos",
@@ -83,18 +83,19 @@
         "San Pablo",
         "Villas del Sol"
       ],
-      "gmaps_embed_pb": "!1m18!1m12!1m3!1d3720!2d-100.3899!3d20.5888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zUXVlcsOpdGFybw!5e0!3m2!1ses!2smx!4v1!5m2!1ses!2smx"
+      "gmaps_embed_pb": "!1m18!1m12!1m3!1d1866047.6233818284!2d-102.52197594240836!3d20.503027784832103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4ff62db85b%3A0xb06e710d32a75a0b!2sOFICINA%20REPUVE!5e1!3m2!1ses-419!2sar!4v1783009747700!5m2!1ses-419!2sar",
+      "nombre_maps": "OFICINA REPUVE"
     },
     {
       "slug": "queretaro-norte-juriquilla",
       "ciudad": "Querétaro",
-      "ciudad_completa": "Querétaro (Norte - Juriquilla)",
+      "ciudad_completa": "Querétaro (Verificación Vehicular Juriquilla)",
       "poblacion": "1,050,000",
       "es_capital": false,
       "es_frontera": false,
-      "intro": "Oficina de trámites vehiculares en la zona norte de Querétaro (Juriquilla). Atiende a residentes de las zonas de mayor crecimiento residencial de la ciudad: Juriquilla, El Refugio, Zibatá, Jurica, Loma Dorada. Menos saturada que la oficina del centro, es buena opción para trámites que requieren tiempo (cambio de propietario, bajas vehiculares) o para quienes trabajan/viven en la zona industrial norte, cerca del cluster automotriz y aeronáutico. Buen acceso desde el Anillo Vial Fray Junípero Serra y la carretera a San Luis Potosí.",
-      "direccion": "Zona Juriquilla, Querétaro, Qro., México",
-      "direccion_corta": "Zona Juriquilla, Querétaro",
+      "intro": "Centro de Verificación Vehicular Estatal en la zona norte de Querétaro (Juriquilla), un servicio complementario al REPUVE que también es requerido para diversos trámites vehiculares en el estado. Atiende a residentes de Juriquilla, El Refugio, Zibatá, Jurica, Loma Dorada y toda la zona norte de la capital queretana. El verificar vehicular es un paso previo a algunos trámites REPUVE como cambios de propietario y bajas vehiculares, por lo que es útil conocer su ubicación al planear cualquier gestión vehicular.",
+      "direccion": "Zona Juriquilla (Verificación 14 Mr. B), Querétaro, Qro., México",
+      "direccion_corta": "Zona Juriquilla, Verificación 14 Mr. B",
       "cp": "76230",
       "telefono": "442 251 9600",
       "horario": {
@@ -106,14 +107,13 @@
         "sabado": "Cerrado",
         "domingo": "Cerrado"
       },
-      "latitude": 20.702,
-      "longitude": -100.4425,
+      "latitude": 20.671373264711978,
+      "longitude": -100.49605243181523,
       "servicios": [
-        "Consulta ciudadana REPUVE",
-        "Cambio de propietario",
-        "Bajas vehiculares",
-        "Trámites de motos",
-        "Constancia de no robo"
+        "Verificación vehicular estatal (emisiones)",
+        "Revisión física del vehículo",
+        "Trámite previo a REPUVE cambio de propietario",
+        "Trámite previo a REPUVE baja vehicular"
       ],
       "ciudades_cercanas": [
         "Corregidora",
@@ -126,7 +126,8 @@
         "Jurica",
         "Loma Dorada"
       ],
-      "gmaps_embed_pb": "!1m18!1m12!1m3!1d3720!2d-100.4425!3d20.7020!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zSnVyaXF1aWxsYQ!5e0!3m2!1ses!2smx!4v1!5m2!1ses!2smx"
+      "gmaps_embed_pb": "!1m18!1m12!1m3!1d58249.665952512616!2d-100.49605243181523!3d20.671373264711978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d357668a952c67%3A0xe0da8502d6edd492!2sVerificaci%C3%B3n%20Vehicular%2014%20Mr.%20B%20Juriquilla!5e1!3m2!1ses-419!2sar!4v1783009785000!5m2!1ses-419!2sar",
+      "nombre_maps": "Verificación Vehicular 14 Mr. B Juriquilla"
     }
   ],
   "meta": {
