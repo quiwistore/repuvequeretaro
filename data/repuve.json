@@ -39,34 +39,33 @@
     {
       "slug": "queretaro-centro",
       "ciudad": "Querétaro",
-      "ciudad_completa": "Querétaro (Centro/Oficina Principal)",
+      "ciudad_completa": "Querétaro (Dirección de Ingresos del Estado)",
       "poblacion": "1,050,000",
       "es_capital": true,
       "es_frontera": false,
-      "intro": "Oficina principal del REPUVE en Querétaro capital. Aquí se realizan los principales trámites vehiculares del estado: consulta ciudadana REPUVE, inscripción de vehículos, cambio de propietario, reposición de placas, constancia de no robo y regularización de autos de procedencia extranjera. Atiende a residentes de Querétaro capital, incluyendo colonias como Centro Histórico, Álamos, Cimatario, Milenio III y Carretas, y también a la zona metropolitana (Corregidora, El Marqués). Por el cluster industrial queretano (Bombardier Aerospace, Michelin, Kellogg's, Samsung, Mabe), es una oficina con alto volumen de trámites vehiculares comerciales y particulares.",
-      "direccion": "Av. Universidad Ote., Centro, Querétaro, Qro., México",
-      "direccion_corta": "Av. Universidad Ote., Centro, Querétaro",
+      "intro": "Oficina principal de la Dirección de Ingresos del Estado de Querétaro, ubicada en el Centro Histórico de Santiago de Querétaro. Es la sede donde se realiza el pago de todos los trámites vehiculares del estado: refrendo anual, alta y reposición de placas, multas, tenencia y adeudos vehiculares. Atiende a residentes de Querétaro capital (Centro Histórico, Álamos, Cimatario, Milenio III, Carretas, Villas del Sol) y de la zona metropolitana (Corregidora, El Marqués, Huimilpan). Después de realizar el pago aquí, los trámites REPUVE se procesan complementariamente en las oficinas de asistencia y trámites de la Secretaría de Finanzas.",
+      "direccion": "C. Francisco I. Madero 105, Centro, 76000 Santiago de Querétaro, Qro., México",
+      "direccion_corta": "C. Francisco I. Madero 105, Centro",
       "cp": "76000",
-      "telefono": "442 251 9600",
+      "telefono": "442 211 7070",
       "horario": {
-        "lunes": "08:30-15:30",
-        "martes": "08:30-15:30",
-        "miercoles": "08:30-15:30",
-        "jueves": "08:30-15:30",
-        "viernes": "08:30-15:30",
+        "lunes": "08:30-14:30",
+        "martes": "08:30-14:30",
+        "miercoles": "08:30-14:30",
+        "jueves": "08:30-14:30",
+        "viernes": "08:30-14:30",
         "sabado": "Cerrado",
         "domingo": "Cerrado"
       },
-      "latitude": 20.503027784832103,
-      "longitude": -102.52197594240836,
+      "latitude": 20.5908251,
+      "longitude": -100.3964435,
       "servicios": [
-        "Consulta ciudadana REPUVE",
-        "Inscripción de vehículos",
-        "Cambio de propietario",
-        "Reposición y alta de placas",
-        "Constancia de no robo",
-        "Regularización de autos chocolate",
-        "Baja vehicular"
+        "Pago de refrendo vehicular anual",
+        "Alta y reposición de placas",
+        "Pago de multas y adeudos vehiculares",
+        "Pago de tenencia",
+        "Traslado de dominio (cambio de propietario)",
+        "Consulta ciudadana REPUVE (información)"
       ],
       "ciudades_cercanas": [
         "Corregidora",
@@ -80,54 +79,57 @@
         "Cimatario",
         "Milenio III",
         "Carretas",
-        "San Pablo",
-        "Villas del Sol"
+        "Villas del Sol",
+        "San Pablo"
       ],
-      "gmaps_embed_pb": "!1m18!1m12!1m3!1d1866047.6233818284!2d-102.52197594240836!3d20.503027784832103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff4ff62db85b%3A0xb06e710d32a75a0b!2sOFICINA%20REPUVE!5e1!3m2!1ses-419!2sar!4v1783009747700!5m2!1ses-419!2sar",
-      "nombre_maps": "OFICINA REPUVE"
+      "nombre_maps": "Dirección de Ingresos del estado de Querétaro",
+      "gmaps_embed_pb": "!1m18!1m12!1m3!1d3720!2d-100.3964435!3d20.5908251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d35ad511734427%3A0xb612918711e81236!2sDirecci%C3%B3n%20de%20Ingresos%20del%20estado%20de%20Quer%C3%A9taro!5e0!3m2!1ses!2smx!4v1783009800000!5m2!1ses!2smx"
     },
     {
-      "slug": "queretaro-norte-juriquilla",
-      "ciudad": "Querétaro",
-      "ciudad_completa": "Querétaro (Verificación Vehicular Juriquilla)",
-      "poblacion": "1,050,000",
+      "slug": "queretaro-corregidora",
+      "ciudad": "Corregidora",
+      "ciudad_completa": "Corregidora (Gestoría Vehicular)",
+      "poblacion": "220,000",
       "es_capital": false,
       "es_frontera": false,
-      "intro": "Centro de Verificación Vehicular Estatal en la zona norte de Querétaro (Juriquilla), un servicio complementario al REPUVE que también es requerido para diversos trámites vehiculares en el estado. Atiende a residentes de Juriquilla, El Refugio, Zibatá, Jurica, Loma Dorada y toda la zona norte de la capital queretana. El verificar vehicular es un paso previo a algunos trámites REPUVE como cambios de propietario y bajas vehiculares, por lo que es útil conocer su ubicación al planear cualquier gestión vehicular.",
-      "direccion": "Zona Juriquilla (Verificación 14 Mr. B), Querétaro, Qro., México",
-      "direccion_corta": "Zona Juriquilla, Verificación 14 Mr. B",
-      "cp": "76230",
-      "telefono": "442 251 9600",
+      "intro": "Oficina especializada en Gestoría Vehicular en Corregidora (zona metropolitana de Querétaro), dedicada específicamente a trámites vehiculares. Aquí se agendan citas para trámites REPUVE, cambio de propietario, verificación de datos vehiculares y regularización de vehículos. Atiende a residentes de Corregidora, San José de los Olvera y la parte sur de la zona metropolitana de Querétaro capital. Por su enfoque específicamente vehicular, suele tener menos saturación que las oficinas de recaudación del centro capital. Buen acceso desde el Blvd. Bernardo Quintana y desde la carretera federal 57 México-Querétaro.",
+      "direccion": "San José de los Olvera 34 ote, San José de los Olvera, Corregidora, Qro., México",
+      "direccion_corta": "San José de los Olvera 34 ote, Corregidora",
+      "cp": "76909",
+      "telefono": "442 377 7877",
       "horario": {
-        "lunes": "09:00-15:00",
-        "martes": "09:00-15:00",
-        "miercoles": "09:00-15:00",
-        "jueves": "09:00-15:00",
-        "viernes": "09:00-15:00",
+        "lunes": "09:00-14:00",
+        "martes": "09:00-14:00",
+        "miercoles": "09:00-14:00",
+        "jueves": "09:00-14:00",
+        "viernes": "09:00-14:00",
         "sabado": "Cerrado",
         "domingo": "Cerrado"
       },
-      "latitude": 20.671373264711978,
-      "longitude": -100.49605243181523,
+      "latitude": 20.551225,
+      "longitude": -100.4122231,
       "servicios": [
-        "Verificación vehicular estatal (emisiones)",
-        "Revisión física del vehículo",
-        "Trámite previo a REPUVE cambio de propietario",
-        "Trámite previo a REPUVE baja vehicular"
+        "Cita para trámites vehiculares",
+        "Cambio de propietario / traslado de dominio",
+        "Verificación de datos vehiculares",
+        "Regularización vehicular",
+        "Trámites de motos",
+        "Constancia de no robo"
       ],
       "ciudades_cercanas": [
-        "Corregidora",
-        "El Marqués"
+        "Querétaro capital",
+        "El Marqués",
+        "Huimilpan"
       ],
       "colonias_atendidas": [
-        "Juriquilla",
-        "El Refugio",
-        "Zibatá",
-        "Jurica",
-        "Loma Dorada"
+        "San José de los Olvera",
+        "El Pueblito",
+        "Los Olvera",
+        "Balcones de Juriquilla",
+        "Los Almendros"
       ],
-      "gmaps_embed_pb": "!1m18!1m12!1m3!1d58249.665952512616!2d-100.49605243181523!3d20.671373264711978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d357668a952c67%3A0xe0da8502d6edd492!2sVerificaci%C3%B3n%20Vehicular%2014%20Mr.%20B%20Juriquilla!5e1!3m2!1ses-419!2sar!4v1783009785000!5m2!1ses-419!2sar",
-      "nombre_maps": "Verificación Vehicular 14 Mr. B Juriquilla"
+      "nombre_maps": "GESTORIA VEHICULAR",
+      "gmaps_embed_pb": "!1m18!1m12!1m3!1d3720!2d-100.4122231!3d20.551225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d345649c3b0769%3A0xc2209dd9e2389083!2sGESTORIA%20VEHICULAR!5e0!3m2!1ses!2smx!4v1783009850000!5m2!1ses!2smx"
     }
   ],
   "meta": {
